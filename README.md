@@ -12,7 +12,7 @@ If you don't have a `~/alchemy` directory, go make one!
 
 1. Use this repo as a template:
    ![](./template-repo.png)
-1. Copy the url to your fork and clone it to your `~/alchemy` folder
+1. Copy the url to your version of the template and clone it to your `~/alchemy` folder
    `git clone <your templated url>`
 1. CD into your repo
    `cd terminal-challange-lab`
