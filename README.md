@@ -10,12 +10,12 @@ If you don't have a `~/alchemy` directory, go make one!
 
 ## Step by Step Instructions
 
-1. Make a fork of this repo
-   ![](./fork-repo.png)
+1. Use this repo as a template:
+   ![](./template-repo.png)
 1. Copy the url to your fork and clone it to your `~/alchemy` folder
-   `git clone <your fork url>`
+   `git clone <your templated url>`
 1. CD into your repo
-   `cd foundations-prep-lab-01`
+   `cd terminal-challange-lab`
 1. Use `ls` and `cd` to move around in the directory and also use your finder to compare what you're seeing in the terminal with what you're seeing in the finder.
 1. We're now going to create some new files using the terminal -- create 2 new files in the `files-to-remove` directory with the echo command. The files should contain the following:
    |filename|text contents|
