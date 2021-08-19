@@ -26,11 +26,10 @@ If you don't have a `~/alchemy` directory, go make one!
 1. Rename `empty` to `full` with `mv`.
 1. Remove newly empty `files-to-remove` directory with `rmdir`
 1. ACP your changes
-1. Open a Pull Request from your Fork to the original repository
-1. Submit a link to your Pull Request
+1. Submit a link to your GitHub repo
 
 ## Points Break Down
 
 | Looking For                                               | Points (10) |
 | :-------------------------------------------------------- | ----------: |
-| Link to Pull Request in Canvas with proper file structure |          10 |
+| Url to your repo with proper file structure submitted on Canvas |          10 |
